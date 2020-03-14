@@ -1,5 +1,5 @@
 - $ sudo apt install npm
-- $ npm i -g pm2
+- $ sudo npm i -g pm2
 - $ cd .././.
 - $ pm2 statup
 - $ pm2 start xx.sh
